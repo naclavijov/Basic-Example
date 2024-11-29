@@ -1,0 +1,4 @@
+conda create -n PyAny python=3.10
+pip install numpy scipy scikit-learn pandas statsmodels matplotlib seaborn
+pip install plotly dash dash-bootstrap-components dash-bootstrap-templates==1.1.1 dash-mantine-components==0.12.1 dash_daq dash-iconify
+pip install kaleido openpyxl missingno waitress
